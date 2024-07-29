@@ -37,49 +37,51 @@ This process increases the diversity of the training dataset, helping to improve
 
 > We built 5 deep learning models for detection and classification of brain tumors from medical imaging data, and we selected the model with highest accuracy
 
-1. CNN
-![image](https://github.com/user-attachments/assets/b52883c4-83a6-4602-aa64-3bdea5cdaa0b)
+# 1. CNN
+
+  ![image](https://github.com/user-attachments/assets/b52883c4-83a6-4602-aa64-3bdea5cdaa0b)
 
   | Model | Training Accuracy | Test Accuracy | Precision | Recall | F1-Score | AUC  |
   |-------|-------------------|---------------|-----------|--------|----------|------|
   | CNN   | 0.996             | 0.965         | 0.95      | 0.95   | 0.95     | 0.980|
 
-![image](https://github.com/user-attachments/assets/0f8f58e4-46f9-4f3f-bd59-164147f67aa8)
+  ![image](https://github.com/user-attachments/assets/0f8f58e4-46f9-4f3f-bd59-164147f67aa8)
 
-2. SE-CNN Model 
-![image](https://github.com/user-attachments/assets/77110c42-4219-45c9-bbaf-8a00199d989b)
+# 2. SE-CNN Model
+   
+  ![image](https://github.com/user-attachments/assets/77110c42-4219-45c9-bbaf-8a00199d989b)
 
 | Model    | Training Accuracy | Test Accuracy | Precision | Recall | F1-Score | AUC  |
 |----------|-------------------|---------------|-----------|--------|----------|------|
 | SE & CNN | 0.999             | 0.976         | 0.94      | 0.93   | 0.93     | 0.985|
 
-![image](https://github.com/user-attachments/assets/dbf31a44-150b-494c-bd4b-e5c674ad7762)
+  ![image](https://github.com/user-attachments/assets/dbf31a44-150b-494c-bd4b-e5c674ad7762)
 
-3. SECNN-LSTM
+# 3. SECNN-LSTM
 
-![image](https://github.com/user-attachments/assets/7bd0a909-c45f-4d9b-b0f4-fbd3427d1873)
+  ![image](https://github.com/user-attachments/assets/7bd0a909-c45f-4d9b-b0f4-fbd3427d1873)
 
 | Model       | Training Accuracy | Test Accuracy | Precision | Recall | F1-Score | AUC  |
 |-------------|-------------------|---------------|-----------|--------|----------|------|
 | CNN SE LSTM | 0.994             | 0.976         | 0.95      | 0.95   | 0.95     | 0.989|
 
-![image](https://github.com/user-attachments/assets/4f6a64bb-5c51-49df-a20e-febd4a118e90)
+  ![image](https://github.com/user-attachments/assets/4f6a64bb-5c51-49df-a20e-febd4a118e90)
 
-4. SECNN-MNet 1 Model
+# 4. SECNN-MNet 1 Model
 
-![image](https://github.com/user-attachments/assets/a6fc494e-d685-4404-883e-a2bf9412fbb7)
+  ![image](https://github.com/user-attachments/assets/a6fc494e-d685-4404-883e-a2bf9412fbb7)
 
 | Model         | Training Accuracy | Test Accuracy | Precision | Recall | F1-Score | AUC  |
 |---------------|-------------------|---------------|-----------|--------|----------|------|
 | MNet SE CNN 1 | 0.991             | 0.986         | 0.97      | 0.97   | 0.97     | 0.993|
 
-![image](https://github.com/user-attachments/assets/ec0989c1-bd2d-4306-9691-f60bddc9dfb0)
+  ![image](https://github.com/user-attachments/assets/ec0989c1-bd2d-4306-9691-f60bddc9dfb0)
 
-5. SECNN-Mnet 2 Model
+# 5. SECNN-Mnet 2 Model
 
-![image](https://github.com/user-attachments/assets/ad7cde2c-84ff-4295-8170-6df1bbe338e3)
-![image](https://github.com/user-attachments/assets/3ef9b47f-7950-4d8c-b8b4-2c2ecbb92815)
-![image](https://github.com/user-attachments/assets/5cddb27d-8dd6-42fc-9288-360e5b9c9f1f)
+  ![image](https://github.com/user-attachments/assets/ad7cde2c-84ff-4295-8170-6df1bbe338e3)
+  ![image](https://github.com/user-attachments/assets/3ef9b47f-7950-4d8c-b8b4-2c2ecbb92815)
+  ![image](https://github.com/user-attachments/assets/5cddb27d-8dd6-42fc-9288-360e5b9c9f1f)
 
 # Explainability Analysis (Grad Cam)
  
