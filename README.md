@@ -7,6 +7,7 @@
 * No Tumor: 1595 MRI images for training and 405 MRI images for testing.
   
 The dataset provided a comprehensive and diverse set of images, facilitating robust training for accurate tumor classification. You can find the dataset used for training the model [dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
+
 Additionally, you can explore the individual datasets that were combined to create this comprehensive collection:
 1.	The Figshare dataset can be found [Figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427/5)
 2.	The SARTAJ dataset can be found [SARTAJ](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
