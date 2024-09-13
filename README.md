@@ -6,11 +6,11 @@
 * Pituitary: 1457 MRI images for training and 300 MRI images for testing.
 * No Tumor: 1595 MRI images for training and 405 MRI images for testing.
   
-The dataset provided a comprehensive and diverse set of images, facilitating robust training for accurate tumor classification. You can find the dataset used for training the model [https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data]
+The dataset provided a comprehensive and diverse set of images, facilitating robust training for accurate tumor classification. You can find the dataset used for training the model [dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
 Additionally, you can explore the individual datasets that were combined to create this comprehensive collection:
-1.	The Figshare dataset can be found [https://figshare.com/articles/dataset/brain_tumor_dataset/1512427/5]
-2.	The SARTAJ dataset can be found [ https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri]
-3.	The Br35H dataset can be found[https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no]
+1.	The Figshare dataset can be found [Figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427/5)
+2.	The SARTAJ dataset can be found [SARTAJ](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+3.	The Br35H dataset can be found [Br35H](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no)
 
 # Preprocessing
 
